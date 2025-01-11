@@ -1,0 +1,56 @@
+.dashboard-container {
+  background-color: #f4f8fb;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  text-align: center;
+}
+
+.account-info {
+  font-size: 18px;
+  color: #555;
+}
+
+.account-info span {
+  font-weight: bold;
+  color: #0066cc;
+}
+
+.banking-options {
+  margin-top: 20px;
+}
+
+.options-title {
+  font-size: 22px;
+  font-weight: bold;
+  color: #333;
+}
+
+.list-group-item {
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.list-group-item:hover {
+  background-color: #f1f9ff;
+}
+
+.dashboard-link {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 16px;
+  font-weight: 500;
+  display: block;
+  padding: 10px;
+}
+
+.dashboard-link:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
